@@ -1,4 +1,4 @@
-# Shiba Dragon  Official Website
+# Yooshizilla  Official Website
 
 This is a readme file for yooshizilla Official Coin
 
